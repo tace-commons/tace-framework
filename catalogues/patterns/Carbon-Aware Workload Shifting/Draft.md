@@ -48,7 +48,7 @@ It is possible to reduce the carbon footprint of compute workloads by shifting *
 As the goal is to reduce the carbon footprint - the highest priority is to minimize additional components and their compute power - so therefore the following approaches and their options are ordered by their level of intrusion to the existing ecosystem.
 ## Temporal Workload Shifting
 
-[[catalogues/Patterns/Carbon-Aware Temporal Workload Shifting/Draft|Draft]]
+[[Catalogues/Patterns/Carbon-Aware Temporal Workload Shifting/Draft|Draft]]
 ## Spatial Workload Shifting
 
 TODO
