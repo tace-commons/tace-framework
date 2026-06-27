@@ -16,7 +16,7 @@ These dimensions are tightly coupled. A system cannot be meaningfully resilient 
 
 Together, they form a closed loop: **observe → operate → survive → recover → improve**, with reliability and availability anchoring steady-state correctness and accessibility.
 
-# Qualities
+# Operational
 
 - [[Reliability]]
 - [[Resiliency]]

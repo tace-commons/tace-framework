@@ -1,9 +1,3 @@
----
-
-
-
----
-
 # Scalability
 # Performance
 # Security
