@@ -8,7 +8,7 @@ The pattern distinguishes between manual and automated shifting strategies, bala
 Carbon-aware computing, temporal workload shifting, sustainable computing, green scheduling, carbon intensity, workload scheduling, demand response, cloud orchestration, energy-aware systems, carbon optimization
 # Context
 
-For an overview of the context please refer to this high-level [[catalogues/Patterns/Carbon-Aware Workload Shifting/Draft|pattern]].
+For an overview of the context please refer to this high-level [[Catalogues/Patterns/Carbon-Aware Workload Shifting/Draft|pattern]].
 
 The electrical power grid fluctuates in carbon intensity throughout the day. On one hand you have periods of high carbon intensity and high consumer demand (dirty peaks), on the other hand you have periods of low carbon intensity and excessive clean energy supply.
 
@@ -142,6 +142,11 @@ A **Scheduler** uses a **Carbon Signal** to decide when a **Workload** should ru
 
 - Additional components (queues, orchestration logic) introduce **compute and energy overhead**
 - For low-intensity workloads, **overhead may outweigh carbon savings**
+# Related Components
+
+- [[Azure Data Factory (ADF)]]
+- [[IBM Workload Scheduler (IWS)]]
+- [[Databricks]]
 # References
 
 \[1] [What is the clean energy transition?](https://web.archive.org/web/20251118010011/https://www.nationalgrid.com/stories/energy-explained/what-clean-energy-transition)
